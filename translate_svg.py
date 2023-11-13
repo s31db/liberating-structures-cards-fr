@@ -22,7 +22,7 @@ def translate_text_svg(lang_to: str):
     }
 
     try:
-        with open("tmp/trad.json", "r", encoding="utf-8") as fp:
+        with open("translate//en_{lang_to}.json", "r", encoding="utf-8") as fp:
             it: dict[str, str] = json.load(fp)
     except FileNotFoundError:
         it = {}
@@ -61,12 +61,13 @@ def prepare_svg_print(lang_to: str, label_size):
     height_mm = 105
 
     files_svg = os.listdir(path)
-    for n in range(int(68 / 8) + 1):
+    limit = len(files_svg)
+    for n in range(int(limit / 8) + 1):
         svg_content = f"""<?xml version="1.0"?>
         <svg width="{width_mm*4}mm" height="{height_mm*2}mm" xmlns="http://www.w3.org/2000/svg">"""
 
         for i in range(8):
-            if (8 * n) + i < 68:
+            if (8 * n) + i < limit:
                 with open(path + files_svg[(8 * n) + i], "r") as f:
                     svg_initial = f.read()
                     x, y = coordinates[i]
