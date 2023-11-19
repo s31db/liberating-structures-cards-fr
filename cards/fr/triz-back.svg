@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="28.75"
-     inkscape:cy="205.25"
+     inkscape:cy="204.75"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="true"
@@ -376,7 +376,7 @@
          id="tspan6167"
          x="-62.225395"
          y="132.6916"
-         style="font-size:12.5px;line-height:1.25"> </tspan></text>
+         style="font-size:12.5px;line-height:1.25" /></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.06641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 35.591782,102.7559 V 347.18873 H 194.09571 V 102.7559 H 35.591782"
@@ -399,23 +399,23 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4344">Introduire l'idée de TRIZ et identifier un résultat non désiré</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4304"> </flowPara><flowPara
+         id="flowPara4304" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4306">&quot;Faites une liste de tout ce que vous pouvez faire pour vous assurer d'obtenir les pires résultats possibles.</flowPara><flowPara
+         id="flowPara4306">Faites une liste de tout ce que vous pouvez faire pour vous assurer d'obtenir les pires résultats possibles.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4308">Use 1-2-4-All</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4310"> </flowPara><flowPara
+         id="flowPara4310" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4312">“Ask yourselves: ‘Is there anything that we are currently doing that in any way, shape, or form resembles this item?’ Create a second list of all your counterproductive activities/programs/procedures.”</flowPara><flowPara
+         id="flowPara4312">&quot;Posez-vous la question suivante : &quot;Y a-t-il quelque chose que nous faisons actuellement qui, d'une manière ou d'une autre, ressemble à ce point ? Dressez une deuxième liste de toutes vos activités/programmes/procédures contre-productifs.&quot;&quot;</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4322">Use 1-2-4-All</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4314"> </flowPara><flowPara
+         id="flowPara4314" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4316">&quot;Quelles sont les premières mesures qui vous aideront à mettre fin à ce que vous savez être à l'origine de résultats indésirables ?</flowPara><flowPara
+         id="flowPara4316">Quelles sont les premières mesures qui vous aideront à mettre fin à ce que vous savez être à l'origine de résultats indésirables ?</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
-         id="flowPara4320">Use 1-2-4-All </flowPara><flowPara
+         id="flowPara4320">Use 1-2-4-All</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:0.85;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a;fill-opacity:1"
          id="flowPara4318" /></flowRoot>
     <text
@@ -428,14 +428,13 @@
          id="tspan4269"
          x="93.897636"
          y="183.54724"
-         style="font-size:8.75px;line-height:1.25"> </tspan></text>
+         style="font-size:8.75px;line-height:1.25" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body Right"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        id="text4227"
        y="120.87352"
@@ -476,12 +475,12 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a">10 min</tspan></text>
     <text
        id="text4428"
-       y="284.58237"
+       y="294.89487"
        x="197.29634"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a"
-         y="284.58237"
+         y="294.89487"
          x="197.29634"
          id="tspan4430"
          sodipodi:role="line">10 min</tspan></text>
@@ -496,5 +495,5 @@
        id="tspan4323"
        x="293.09576"
        y="257.1424"
-       style="font-size:8.75px;line-height:1.25"> </tspan></text>
+       style="font-size:8.75px;line-height:1.25" /></text>
 </svg>

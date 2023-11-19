@@ -39,9 +39,9 @@
      inkscape:snap-page="true"
      inkscape:snap-grids="false"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-others="false"
      inkscape:snap-nodes="true"
@@ -412,8 +412,8 @@
      inkscape:label="Body"
      style="display:inline">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 40.748032,152.3622 0,187.79528 180.708658,0 0,-187.79528 z"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.06608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.060532,145.33095 V 346.25123 H 228.01919 V 145.33095 Z"
        id="path4305"
        inkscape:connector-curvature="0" />
     <text

@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="130.25"
-     inkscape:cy="196.25"
+     inkscape:cy="195.75"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer9"
      showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -375,7 +375,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Body">
+     inkscape:label="Body"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -447,7 +448,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Body Right"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        id="text4227"
        y="115.24852"
@@ -513,7 +515,8 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="String With"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40.748032,269.28162 v 70.87586 H 221.45669 v -70.87586 z"
