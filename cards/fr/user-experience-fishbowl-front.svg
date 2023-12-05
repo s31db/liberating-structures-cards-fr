@@ -29,7 +29,7 @@
      inkscape:cx="101.74999"
      inkscape:cy="190.24999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer9"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -238,7 +238,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Title"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 109.84252,113.38582 H 221.45669 V 31.889763 H 109.84252 Z"
@@ -248,7 +249,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4357"
-       transform="translate(0,5.5700978)"><flowRegion
+       transform="translate(0,-0.05490219)"><flowRegion
          id="flowRegion4359"><use
            x="0"
            y="0"
@@ -257,9 +258,26 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4363"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">User Experience Fishbowl</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;text-anchor:end">Expérience Utilisateur</flowPara><flowPara
          id="flowPara4365"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:end;letter-spacing:0px;text-anchor:end;fill:#1a1a1a">Patager le savoir-faire acquis par l'expérience avec une communauté plus large</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5469px;line-height:1.15;font-family:Roboto;-inkscape-font-specification:'Roboto, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:normal;text-align:end;direction:ltr;text-anchor:end;display:inline;vector-effect:none;fill:#000000;fill-opacity:0.6;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;enable-background:new;stop-color:#000000"
+       x="220.50757"
+       y="106.98198"
+       id="text2"
+       inkscape:label="enTitle"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="220.50757"
+         y="106.98198"
+         style="text-align:end;text-anchor:end;stroke-width:0.9375px">User Experience</tspan><tspan
+         sodipodi:role="line"
+         x="220.50757"
+         y="119.11092"
+         style="text-align:end;text-anchor:end;stroke-width:0.9375px"
+         id="tspan1">Fishbowl</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

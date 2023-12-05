@@ -29,7 +29,7 @@
      inkscape:cx="122.68302"
      inkscape:cy="124.80434"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer8"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -257,8 +257,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Separator"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#71c837;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4178"
@@ -276,7 +275,7 @@
          id="tspan4182"
          x="39.935017"
          y="87.861458"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Reveal</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Révélé</tspan></text>
     <rect
        y="74.409447"
        x="164.76376"
@@ -445,7 +444,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.10204px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 31.467256,91.486386 V 346.78661 H 193.53274 V 91.486386 H 31.467256"
-       id="path4245"
+       id="pathcsb4245"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -456,7 +455,7 @@
          style="line-height:0.85"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#pathcsb4245"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara
