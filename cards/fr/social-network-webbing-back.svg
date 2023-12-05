@@ -318,7 +318,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 99.212598,31.889763 0,31.88976 122.244092,0 0,-31.88976 z"
-       id="path4300"
+       id="path4300_snwb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -328,7 +328,7 @@
          id="flowRegion4273"><use
            x="0"
            y="0"
-           xlink:href="#path4300"
+           xlink:href="#path4300_snwb"
            id="use4275"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -482,7 +482,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.11332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 33.716782,95.72465 V 341.09498 H 205.81446 V 95.72465 H 33.716782"
-       id="path4245"
+       id="path4245_snwb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -492,7 +492,7 @@
          style="line-height:0.85"><use
            x="0"
            y="0"
-           xlink:href="#path4245"
+           xlink:href="#path4245_snwb"
            id="use4255"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -597,7 +597,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 40.748032,269.28162 v 70.87586 H 221.45669 v -70.87586 z"
-       id="path4343"
+       id="path4343_snwb"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -607,7 +607,7 @@
          id="flowRegion4353"><use
            x="0"
            y="0"
-           xlink:href="#path4343"
+           xlink:href="#path4343_snwb"
            id="use4355"
            width="100%"
            height="100%" /></flowRegion><flowPara

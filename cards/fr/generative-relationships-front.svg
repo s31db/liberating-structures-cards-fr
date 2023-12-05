@@ -293,7 +293,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 109.84252,113.38582 H 221.45669 V 31.889763 H 109.84252 Z"
-       id="path4349"
+       id="path4349_grf"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
@@ -303,7 +303,7 @@
          id="flowRegion4359"><use
            x="0"
            y="0"
-           xlink:href="#path4349"
+           xlink:href="#path4349_grf"
            id="use4361"
            width="100%"
            height="100%" /></flowRegion><flowPara
@@ -393,7 +393,7 @@
     <path
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.08334px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 34.654282,138.2997 V 345.78248 H 226.61294 V 138.2997 Z"
-       id="path4305"
+       id="path4305_grf"
        inkscape:connector-curvature="0"
        sodipodi:insensitive="true" />
     <flowRoot
@@ -404,7 +404,7 @@
          id="flowRegion4321"><use
            x="0"
            y="0"
-           xlink:href="#path4305"
+           xlink:href="#path4305_grf"
            id="use4323"
            width="100%"
            height="100%"
