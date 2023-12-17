@@ -102,7 +102,5 @@ def prepare_svg_print(lang_to: str, label_size: str):
 
 
 if __name__ == "__main__":
-    prepare_svg_print("en", "A4")
-    prepare_svg_print("en", "US Letter")
-    # prepare_svg_print("fr", "A4")
-    # prepare_svg_print("es", "A4")
+    # Choose your language here en, fr, es, ... and size A4 or US Letter.
+    prepare_svg_print("es", "A4")

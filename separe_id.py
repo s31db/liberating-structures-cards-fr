@@ -46,5 +46,3 @@ def find_duplicate(file: str, svg: str, ids: dict[str, str], id_duplicate: list[
 
 if __name__ == "__main__":
     walk("en")
-    # walk("fr")
-    # walk("es")

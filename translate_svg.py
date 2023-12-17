@@ -41,13 +41,11 @@ def translate_text_svg(lang_to: str):
                         elif it[from_text] != "":
                             # Update text to SVG file
                             text_element.text = it[from_text]
-            # arbre_svg.write(f"{path_to}/{file}")
-            pass
+            arbre_svg.write(f"{path_to}/{file}")
 
     with open(f"translate/en_{lang_to}.json", "w", encoding="utf-8") as fp:
         json.dump(it, fp, indent=2)
 
 
 if __name__ == "__main__":
-    # translate_text_svg("fr")
     translate_text_svg("es")
