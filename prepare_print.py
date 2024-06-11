@@ -122,4 +122,5 @@ def to_pdf(lang_to, label_size):
 if __name__ == "__main__":
     # Choose your language here en, fr, es, ... and size A4 or US Letter.
     prepare_svg_print("en", "A4")
-    to_pdf("en", "A4")
+    # Export pdf have some difficulties with logo
+    # to_pdf("fr", "A4")
