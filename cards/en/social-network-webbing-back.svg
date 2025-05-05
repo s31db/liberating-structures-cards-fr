@@ -10,6 +10,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="social-network-webbing-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -766,12 +767,11 @@
            x="40.748047"
            y="334.01251"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">15% Solutions          Design StoryBoards </tspan><tspan
-           dx="0"
-           x="189.86562"
+           id="tspan4">15% Solutions</tspan><tspan
+           x="110.748047"
            y="334.01251"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan5" /></tspan><tspan
+           id="tspan5">Design StoryBoards</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.748047"
          y="344.95001"
@@ -781,7 +781,7 @@
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
            id="tspan7">1-2-4-All</tspan></tspan></text>
     <g
-       transform="matrix(0.57732547,0,0,0.5773255,55.01099,233.96702)"
+       transform="matrix(0.57732547,0,0,0.5773255,56.01099,233.96702)"
        inkscape:label="15percentsolution"
        id="g226"
        style="display:inline;enable-background:new">
@@ -898,7 +898,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.42480046,0,0,0.42480046,66.81252,291.07549)"
+       transform="matrix(0.42480046,0,0,0.42480046,68.81252,291.07549)"
        inkscape:label="124all"
        id="g1560"
        style="display:inline;enable-background:new">

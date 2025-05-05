@@ -10,6 +10,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="user-experience-fishbowl-back.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -677,7 +678,11 @@
            x="35.123047"
            y="317.38751"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Improv Prototyping         25/10 Crowd Sourcing </tspan></tspan><tspan
+           id="tspan4">Improv Prototyping</tspan><tspan
+           x="125.123047"
+           y="317.38751"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan104">25/10 Crowd Sourcing</tspan></tspan><tspan
          sodipodi:role="line"
          x="35.123047"
          y="328.32501"
@@ -685,12 +690,11 @@
            x="35.123047"
            y="328.32501"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan6">Ecocycle Planning           Simple Ethnography</tspan><tspan
-           dx="0"
-           x="198.76562"
+           id="tspan6">Ecocycle Planning</tspan><tspan
+           x="125.123047"
            y="328.32501"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan7" /></tspan><tspan
+           id="tspan7">Simple Ethnography</tspan></tspan><tspan
          sodipodi:role="line"
          x="35.123047"
          y="339.26251"
@@ -757,7 +761,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.44534226,0,0,0.44534226,152.37262,243.38618)"
+       transform="matrix(0.44534226,0,0,0.44534226,153.37262,243.38618)"
        style="display:inline;enable-background:new"
        inkscape:label="25to10crowdsourcing"
        id="g1159">
@@ -1040,7 +1044,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.21764731,0,0,0.21764731,134.42604,279.607)"
+       transform="matrix(0.21764731,0,0,0.21764731,136.42604,279.607)"
        inkscape:label="simpleethnography"
        id="g1000"
        style="display:inline;enable-background:new">

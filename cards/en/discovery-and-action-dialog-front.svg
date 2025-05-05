@@ -10,6 +10,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="discovery-and-action-dialog-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -463,20 +464,6 @@
            id="tspan17" /></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
-         y="232.03441"
-         id="tspan21"
-         style="stroke-width:1.00342px"><tspan
-           x="40.886887"
-           y="232.03441"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan19"> </tspan><tspan
-           dx="0"
-           x="42.575642"
-           y="232.03441"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan20" /></tspan><tspan
-         sodipodi:role="line"
-         x="40.886887"
          y="242.26933"
          id="tspan24"
          style="stroke-width:1.00342px"><tspan
@@ -580,7 +567,7 @@
            x="40.886887"
            y="324.14871"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan43">Improv Prototyping </tspan><tspan
+           id="tspan43">Improv Prototyping</tspan><tspan
            dx="0"
            x="117.73809"
            y="324.14871"

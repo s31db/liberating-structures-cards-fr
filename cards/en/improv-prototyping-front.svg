@@ -10,6 +10,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="improv-prototyping-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -600,15 +601,14 @@
        x="40.886887"
        y="313.91379"
        style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-       id="tspan41">Design StoryBoards            Shift &amp; Share </tspan><tspan
-       dx="0"
-       x="188.56071"
+       id="tspan41">Design StoryBoards</tspan><tspan
+       x="135.886887"
        y="313.91379"
        style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-       id="tspan42" /></tspan><tspan
+       id="tspan42">Shift &amp; Share</tspan></tspan><tspan
      sodipodi:role="line"
      x="40.886887"
-     y="324.14871"
+     y="325.14871"
      id="tspan45"
      style="stroke-width:1.00342px"><tspan
        x="40.886887"
@@ -882,7 +882,7 @@
   </g>
 </g>
 <g
-   transform="matrix(0.4737997,0,0,0.47379963,46.811354,219.40635)"
+   transform="matrix(0.4737997,0,0,0.47379963,48.811354,220.40635)"
    inkscape:label="userexperiencefishbowl"
    id="layer24"
    style="display:inline;enable-background:new">

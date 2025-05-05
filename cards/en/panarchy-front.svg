@@ -10,6 +10,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="panarchy-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -626,12 +627,11 @@
            x="40.886887"
            y="313.91379"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan44">Ecocycle Planning            1-2-4-All </tspan><tspan
-           dx="0"
-           x="165.79326"
+           id="tspan44">Ecocycle Planning</tspan><tspan
+           x="130.886887"
            y="313.91379"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan45" /></tspan><tspan
+           id="tspan45">1-2-4-All</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="324.14871"
@@ -640,12 +640,11 @@
            x="40.886887"
            y="324.14871"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan47">WINFY           Social Network Webbing </tspan><tspan
-           dx="0"
-           x="184.57072"
+           id="tspan47">WINFY</tspan><tspan
+           x="85.886887"
            y="324.14871"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan48" /></tspan><tspan
+           id="tspan48">Social Network Webbing</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="334.38364"
@@ -654,7 +653,7 @@
            x="40.886887"
            y="334.38364"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan50">Celebrity Interview </tspan><tspan
+           id="tspan50">Celebrity Interview</tspan><tspan
            dx="0"
            x="117.00312"
            y="334.38364"
@@ -662,7 +661,7 @@
            id="tspan51" /></tspan></text>
     <g
        style="display:inline;enable-background:new"
-       transform="matrix(0.44391795,0,0,0.44391798,-57.05606,256.89928)"
+       transform="matrix(0.44391795,0,0,0.44391798,-56.05606,256.89928)"
        inkscape:label="ecocycle"
        id="layer35">
       <g
@@ -729,7 +728,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.42480046,0,0,0.42480046,156.34378,259.66924)"
+       transform="matrix(0.42480046,0,0,0.42480046,158.34378,259.66924)"
        inkscape:label="124all"
        id="layer3"
        style="display:inline;enable-background:new">

@@ -10,6 +10,7 @@
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    sodipodi:docname="what-i-need-from-you-front.svg"
    enable-background="new"
+   style="background-color:white"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -577,7 +578,11 @@
            x="40.886887"
            y="313.91379"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan42">Helping Heuristics         Integrated~Autonomy    </tspan></tspan><tspan
+           id="tspan42">Helping Heuristics</tspan><tspan
+           x="130.886887"
+           y="313.91379"
+           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
+           id="tspan142">Integrated~Autonomy</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="324.14871"
@@ -586,7 +591,7 @@
            x="40.886887"
            y="324.14871"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan44">Appreciative Interviews </tspan><tspan
+           id="tspan44">Appreciative Interviews</tspan><tspan
            dx="0"
            x="133.93437"
            y="324.14871"
@@ -666,7 +671,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.24764336,0,0,0.24764336,121.47031,304.12998)"
+       transform="matrix(0.24764336,0,0,0.24764336,125.47031,304.12998)"
        inkscape:label="integratedautonomy"
        id="g132"
        style="display:inline;enable-background:new">
