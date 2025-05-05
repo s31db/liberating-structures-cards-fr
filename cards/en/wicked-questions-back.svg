@@ -629,7 +629,11 @@
            x="40.748047"
            y="322.63751"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Improv Prototyping          Ecocycle Planning </tspan></tspan><tspan
+           id="tspan4">Improv Prototyping</tspan><tspan
+           x="130.748047"
+           y="322.63751"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan104">Ecocycle Planning</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.748047"
          y="333.57501"
@@ -637,7 +641,7 @@
            x="40.748047"
            y="333.57501"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan6">25/10 Crowd Sourcing </tspan><tspan
+           id="tspan6">25/10 Crowd Sourcing</tspan><tspan
            dx="0"
            x="128.91306"
            y="333.57501"
@@ -650,7 +654,11 @@
            x="40.748047"
            y="344.51251"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan9">15% Solutions           1-2-4-All</tspan></tspan></text>
+           id="tspan9">15% Solutions</tspan><tspan
+           x="112.748047"
+           y="344.51251"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan9">1-2-4-All</tspan></tspan></text>
     <g
        transform="matrix(0.29038618,0,0,0.29038621,64.121718,295.30751)"
        inkscape:label="improvprototyping"
@@ -736,7 +744,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.44534226,0,0,0.44534226,68.231992,259.55805)"
+       transform="matrix(0.44534226,0,0,0.44534226,70.231992,259.55805)"
        style="display:inline;enable-background:new"
        inkscape:label="25to10crowdsourcing"
        id="g1159">

@@ -659,9 +659,13 @@
            x="40.748047"
            y="330.02194"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Simple Ethnography        Nine Whys</tspan></tspan></text>
+           id="tspan4">Simple Ethnography</tspan><tspan
+           x="132.748047"
+           y="330.02194"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan104">Nine Whys</tspan></tspan></text>
     <g
-       transform="matrix(0.42640627,0,0,0.42640627,173.70092,233.66087)"
+       transform="matrix(0.42640627,0,0,0.42640627,175.70092,233.66087)"
        style="display:inline"
        inkscape:label="9whys"
        id="layer4-6">
@@ -720,7 +724,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.23215713,0,0,0.23215713,47.091781,278.37821)"
+       transform="matrix(0.23215713,0,0,0.23215713,49.091781,278.37821)"
        inkscape:label="simpleethnography"
        id="layer29"
        style="display:inline;enable-background:new">

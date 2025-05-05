@@ -672,7 +672,11 @@
            x="38.873047"
            y="308.01251"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Helping Heuristics        + Heard-Seen-Respected </tspan></tspan><tspan
+           id="tspan4">Helping Heuristics</tspan><tspan
+           x="122.873047"
+           y="308.01251"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan104">+ Heard-Seen-Respected</tspan></tspan><tspan
          sodipodi:role="line"
          x="38.873047"
          y="318.95001"
@@ -680,12 +684,11 @@
            x="38.873047"
            y="318.95001"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan6">Nine Whys         Troika Consulting </tspan><tspan
-           dx="0"
-           x="164.94312"
+           id="tspan6">Nine Whys</tspan><tspan
+           x="98.873047"
            y="318.95001"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan7" /></tspan><tspan
+           id="tspan7">Troika Consulting</tspan></tspan><tspan
          sodipodi:role="line"
          x="38.873047"
          y="329.88751"
@@ -706,7 +709,7 @@
            x="38.873047"
            y="340.82501"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan12"> Appreciative Interviews</tspan></tspan></text>
+           id="tspan12">Appreciative Interviews</tspan></tspan></text>
     <g
        transform="matrix(0.37653871,0,0,0.37653873,27.996537,261.53841)"
        inkscape:label="helpingheuristics"
@@ -772,7 +775,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.37477114,0,0,0.37477114,80.260536,234.23562)"
+       transform="matrix(0.37477114,0,0,0.37477114,82.260536,234.23562)"
        style="display:inline;enable-background:new"
        inkscape:label="9whys"
        id="g1668">
@@ -831,7 +834,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.27821071,0,0,0.27821071,151.60378,295.23173)"
+       transform="matrix(0.27821071,0,0,0.27821071,152.60378,295.23173)"
        inkscape:label="heardseenrespected"
        id="g1675-0"
        style="display:inline;enable-background:new">
@@ -882,7 +885,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.44656191,0,0,0.44656191,140.74832,218.95783)"
+       transform="matrix(0.44656191,0,0,0.44656191,142.74832,218.95783)"
        inkscape:label="troikaconsulting"
        id="layer10-3"
        style="display:inline;enable-background:new">
@@ -926,7 +929,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.63972963,0,0,0.63972958,-67.418791,316.94818)"
+       transform="matrix(0.63972963,0,0,0.63972958,-65.418791,316.94818)"
        inkscape:label="whatineedfromyou"
        id="layer19"
        style="display:inline;enable-background:new">

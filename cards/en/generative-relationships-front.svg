@@ -513,16 +513,6 @@
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"> - Reason to work together</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
-         y="236.5424"
-         id="tspan177"
-         style="stroke-width:1.00342px"><tspan
-           x="40.886887"
-           y="236.5424"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan175"
-           dx="0 0"> </tspan></tspan><tspan
-         sodipodi:role="line"
-         x="40.886887"
          y="246.99864"
          id="tspan180"
          style="stroke-width:1.00342px"><tspan
@@ -550,16 +540,6 @@
            style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
            id="tspan183"
            dx="0 0 0 0 0 0 0">group </tspan></tspan><tspan
-         sodipodi:role="line"
-         x="40.886887"
-         y="280.29239"
-         id="tspan188"
-         style="stroke-width:1.00342px"><tspan
-           x="40.886887"
-           y="280.29239"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan186"
-           dx="0 0"> </tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="290.74863"
@@ -607,6 +587,6 @@
            y="334.97986"
            style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
            id="tspan199"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">for each small group &amp; one for the whole group </tspan></tspan></text>
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">for each small group &amp; one for the whole group</tspan></tspan></text>
   </g>
 </svg>

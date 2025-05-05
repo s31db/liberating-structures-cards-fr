@@ -688,12 +688,11 @@
            x="40.748047"
            y="326.76251"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan4">Helping Heuristics          Nine Whys </tspan><tspan
-           dx="0"
-           x="171.78815"
+           id="tspan4">Helping Heuristics</tspan><tspan
+           x="130.748047"
            y="326.76251"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
-           id="tspan5" /></tspan><tspan
+           id="tspan5">Nine Whys</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.748047"
          y="337.70001"
@@ -703,7 +702,7 @@
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
            id="tspan7">Heard-Seen- Respected</tspan></tspan></text>
     <g
-       transform="matrix(0.40164129,0,0,0.40164131,24.926141,277.52683)"
+       transform="matrix(0.40164129,0,0,0.40164131,25.926141,277.52683)"
        inkscape:label="helpingheuristics"
        id="layer20"
        style="display:inline;enable-background:new">
@@ -767,7 +766,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.39975588,0,0,0.39975588,170.37687,235.75759)"
+       transform="matrix(0.39975588,0,0,0.39975588,174.37687,235.75759)"
        style="display:inline;enable-background:new"
        inkscape:label="9whys"
        id="layer4-6">
@@ -826,7 +825,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.29675809,0,0,0.29675809,60.866943,325.50761)"
+       transform="matrix(0.29675809,0,0,0.29675809,62.866943,325.50761)"
        inkscape:label="heardseenrespected"
        id="layer18"
        style="display:inline;enable-background:new">

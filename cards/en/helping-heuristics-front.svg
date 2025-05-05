@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="84.249996"
-     inkscape:cy="168.74999"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="71.999996"
+     inkscape:cy="274.62499"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="g128"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -40,10 +40,10 @@
      inkscape:object-nodes="true"
      inkscape:snap-page="true"
      inkscape:snap-grids="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="4309"
+     inkscape:window-y="618"
      inkscape:window-maximized="1"
      inkscape:snap-others="false"
      inkscape:snap-nodes="true"
@@ -455,20 +455,6 @@
            id="tspan7" /></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
-         y="192.79239"
-         id="tspan11"
-         style="stroke-width:1.00342px"><tspan
-           x="40.886887"
-           y="192.79239"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan9"> </tspan><tspan
-           dx="0"
-           x="42.575642"
-           y="192.79239"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan10" /></tspan><tspan
-         sodipodi:role="line"
-         x="40.886887"
          y="203.24863"
          id="tspan14"
          style="stroke-width:1.00342px"><tspan
@@ -524,20 +510,6 @@
            id="tspan22" /></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
-         y="258.41739"
-         id="tspan26"
-         style="stroke-width:1.00342px"><tspan
-           x="40.886887"
-           y="258.41739"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan24"> </tspan><tspan
-           dx="0"
-           x="42.575642"
-           y="258.41739"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan25" /></tspan><tspan
-         sodipodi:role="line"
-         x="40.886887"
          y="268.87366"
          id="tspan29"
          style="stroke-width:1.00342px"><tspan
@@ -566,20 +538,6 @@
            id="tspan31" /></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
-         y="291.22989"
-         id="tspan35"
-         style="stroke-width:1.00342px"><tspan
-           x="40.886887"
-           y="291.22989"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan33"> </tspan><tspan
-           dx="0"
-           x="42.575642"
-           y="291.22989"
-           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan34" /></tspan><tspan
-         sodipodi:role="line"
-         x="40.886887"
          y="301.68613"
          id="tspan38"
          style="stroke-width:1.00342px"><tspan
@@ -593,28 +551,31 @@
            style="font-weight:bold;font-size:8.75px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#999999;stroke-width:1.00342px"
            id="tspan37" /></tspan><tspan
          sodipodi:role="line"
-         x="40.886887"
+         x="125.88689"
          y="313.10486"
          id="tspan41"
          style="stroke-width:1.00342px"><tspan
            x="40.886887"
            y="313.10486"
            style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan39">Troika Consulting          Wise Crowds </tspan><tspan
-           dx="0"
-           x="177.73695"
+           id="tspan39">Troika Consulting</tspan><tspan
+           x="125.88689"
            y="313.10486"
            style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan40" /></tspan><tspan
+           id="tspan40">Wise Crowds</tspan></tspan><tspan
          sodipodi:role="line"
-         x="40.886887"
+         x="140.88689"
          y="324.04236"
          id="tspan43"
          style="stroke-width:1.00342px"><tspan
            x="40.886887"
            y="324.04236"
            style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan42">What I Need From You       Improv Prototyping </tspan></tspan><tspan
+           id="tspan42">What I Need From You</tspan><tspan
+           x="140.88689"
+           y="324.04236"
+           style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
+           id="tspan142">Improv Prototyping</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="334.97986"
@@ -625,7 +586,7 @@
            style="font-weight:500;font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
            id="tspan44">Simple Ethnography</tspan></tspan></text>
     <g
-       transform="matrix(0.24763427,0,0,0.24763427,137.75945,269.13062)"
+       transform="matrix(0.24763427,0,0,0.24763427,43.862404,283.05095)"
        inkscape:label="simpleethnography"
        id="layer29"
        style="display:inline;enable-background:new">
@@ -782,12 +743,13 @@
       </g>
     </g>
     <g
-       transform="matrix(0.52874827,0,0,0.52874823,-33.297841,312.89855)"
+       transform="matrix(0.52874827,0,0,0.52874823,-31.297841,314.77355)"
        inkscape:label="whatineedfromyou"
        id="g128"
        style="display:inline;enable-background:new">
       <g
-         id="g127">
+         id="g127"
+         transform="translate(0,-0.88652774)">
         <path
            style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 303.22387,5.7474527 h 18.56888 V 24.316345 h -18.56888 z"
@@ -802,7 +764,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.29038618,0,0,0.29038621,65.996722,309.37002)"
+       transform="matrix(0.29038618,0,0,0.29038621,163.14171,299.47428)"
        inkscape:label="improvprototyping"
        id="layer16"
        style="display:inline;enable-background:new">

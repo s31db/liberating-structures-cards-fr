@@ -473,20 +473,6 @@
            id="tspan11" /></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
-         y="211.56459"
-         id="tspan15"
-         style="stroke-width:1.00342px"><tspan
-           x="40.886887"
-           y="211.56459"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan13"> </tspan><tspan
-           dx="0"
-           x="42.575642"
-           y="211.56459"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan14" /></tspan><tspan
-         sodipodi:role="line"
-         x="40.886887"
          y="221.7995"
          id="tspan18"
          style="stroke-width:1.00342px"><tspan
@@ -513,20 +499,6 @@
            y="232.03441"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
            id="tspan20" /></tspan><tspan
-         sodipodi:role="line"
-         x="40.886887"
-         y="242.26933"
-         id="tspan24"
-         style="stroke-width:1.00342px"><tspan
-           x="40.886887"
-           y="242.26933"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan22"> </tspan><tspan
-           dx="0"
-           x="42.575642"
-           y="242.26933"
-           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan23" /></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="252.50424"
@@ -623,12 +595,11 @@
            x="40.886887"
            y="324.14871"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan44">Panarchy        1-2-4-All </tspan><tspan
-           dx="0"
-           x="126.30445"
+           id="tspan44">Panarchy</tspan><tspan
+           x="90.886887"
            y="324.14871"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan45" /></tspan><tspan
+           id="tspan45">1-2-4-All</tspan></tspan><tspan
          sodipodi:role="line"
          x="40.886887"
          y="334.38364"
@@ -637,7 +608,11 @@
            x="40.886887"
            y="334.38364"
            style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
-           id="tspan47">WINFY         Open Space Technology</tspan></tspan></text>
+           id="tspan47">WINFY</tspan><tspan
+           x="85.886887"
+           y="334.38364"
+           style="font-weight:500;font-size:8.75px;font-family:Lato;-inkscape-font-specification:'Lato Medium';fill:#1a1a1a;stroke-width:1.00342px"
+           id="tspan147">Open Space Technology</tspan></tspan></text>
     <g
        transform="matrix(0.23724228,0,0,0.23724228,-4.1696518,282.90257)"
        inkscape:label="panarchy"
@@ -678,7 +653,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.45312049,0,0,0.45312049,116.79794,267.44927)"
+       transform="matrix(0.45312049,0,0,0.45312049,118.79794,267.44927)"
        inkscape:label="124all"
        id="layer3"
        style="display:inline;enable-background:new">
@@ -767,7 +742,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.31624165,0,0,0.31624168,78.159122,316.38235)"
+       transform="matrix(0.31624165,0,0,0.31624168,84.159122,316.38235)"
        inkscape:label="openspace"
        id="g81"
        style="display:inline;enable-background:new">
