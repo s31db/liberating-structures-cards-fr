@@ -294,7 +294,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="136.09344"
        y="50.421005"
        id="text46"><tspan
@@ -424,6 +424,16 @@
            id="tspan18" /></tspan><tspan
          sodipodi:role="line"
          x="40.748047"
+         y="143.70586"
+         id="tspan22"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan20"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan21" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
          y="154.64336"
          id="tspan24"><tspan
            x="40.748047"
@@ -449,6 +459,16 @@
            dx="2.6249924"
            style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
            id="tspan29" /></tspan><tspan
+         sodipodi:role="line"
+         x="40.748047"
+         y="187.45586"
+         id="tspan33"><tspan
+           x="40.748047"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan31"> </tspan><tspan
+           dx="1.6887569"
+           style="font-size:8.75px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a1a1a"
+           id="tspan32" /></tspan><tspan
          sodipodi:role="line"
          x="40.748047"
          y="198.39336"

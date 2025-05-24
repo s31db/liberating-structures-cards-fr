@@ -1,5 +1,6 @@
+import os
 from xml.etree import ElementTree as ET
-from os import listdir, path, makedirs, remove
+from os import listdir, path, makedirs
 import subprocess
 
 import separe_id
@@ -63,7 +64,13 @@ def prepare_svg_print(lang_to: str, label_size: str):
         calque = ""
         for nfile, file in enumerate(files_svg_list):
             svg = ""
-            arbre_svg = ET.parse(path_in + file)
+            try:
+                arbre_svg = ET.parse(path_in + file)
+            except ET.ParseError as e:
+                print(
+                    f"Error in file:///{os.getcwd().replace("\\", "/")}/{path_in}{file}"
+                )
+                raise e
             racine_svg = arbre_svg.getroot()
             for g_element in racine_svg.findall("./g", ns_svg):
                 svg += ET.tostring(
@@ -105,7 +112,7 @@ def prepare_svg_print(lang_to: str, label_size: str):
 def to_pdf(lang_to, label_size):
     path_in: str = f"print/{lang_to}/{label_size}/"
     path_pdf: str = f"print/{lang_to}/"
-    pdf_file = f"{path_pdf}print-{label_size.lower().replace(' ', '-')}.pdf"
+    pdf_file = f"{path_pdf}print-{label_size.lower().replace(' ', '-')}-{lang_to}.pdf"
     subprocess.run(
         [
             "c:/tools/Inkscape/bin/inkscape",
@@ -119,5 +126,13 @@ def to_pdf(lang_to, label_size):
 
 if __name__ == "__main__":
     # Choose your language here en, fr, es, ... and size A4 or US Letter.
-    prepare_svg_print("fr", "A4")
-    to_pdf("fr", "A4")
+    if True:
+        prepare_svg_print("fr", "A4")
+        to_pdf("fr", "A4")
+        prepare_svg_print("fr", "US Letter")
+        to_pdf("fr", "US Letter")
+
+    prepare_svg_print("en", "A4")
+    to_pdf("en", "A4")
+    prepare_svg_print("en", "US Letter")
+    to_pdf("en", "US Letter")
